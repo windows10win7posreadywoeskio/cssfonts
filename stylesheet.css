@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'Mojang';
-    src: url('Mojang.woff2') format('woff2'),
-        url('Mojang.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/windows10win7posreadywoeskio/cssfonts/main/Mojang.woff2') format('woff2'),
     font-weight: normal;
     font-style: normal;
     font-display: swap;
